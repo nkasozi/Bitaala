@@ -1,21 +1,9 @@
 # Bitaala
 Source code for Embedded System of traffic lights
 
-**REPORT FOR THE SMART TRAFFIC ASSIGNMENT**
-
-**Group members**
-
-Nsubuga Kasozi 10/u/1246 210000261
-
-Kinyera Kenneth Douglas 10/u/9280/PS 210009102
-
-Kasoma Fredrick 10/u/9252/PS 210019190
-
-Ahimbisibwe Dan 10/u/9174/PS 210012141
-
 **Description of the smart traffic assignment**
 
-We were required to design and simulate smart traffic lights at a junction which serves 6 roads that is 1, 2, 3, 4, 5 and 6. The following lines can move in parallel that is at the same time and each has a set of traffic lights controlling it.
+Design and simulate smart traffic lights at a junction which serves 6 roads that is 1, 2, 3, 4, 5 and 6. The following lines can move in parallel that is at the same time and each has a set of traffic lights controlling it.
 
 1 and 2
 
@@ -55,20 +43,3 @@ In order to program this system, we required functions or a function to do the f
 5. To handle the interrupt
 6. Initialize the keypad
 7. To check whether a key of the keypad has been pressed
-
-**Tasks of each member**
-
-Every member participated in all the functionality design of the system but every individual was challenged with developing ideas and source code about specific parts of the system.
-
-Nsubuga Kasozi and Ahimbisibwe Dan: -lighting the traffic lights and dealing with the interrupt.
-
-Kinyera Kenneth and Kasoma Fredrick:-lighting the traffic lights and sending characters to the LCD.
-
-Nsubuga Kasozi: - integration of the ideas
-
-**Lessons learnt**
-
-- Team work is good.
-- Developers have different understanding of tasks.
-- Integration of source code from different people is difficult and takes time.
-- We learnt not to rush into coding but rather take time to fully internalize the idea. The idea is not as straight forward as it may seem.
